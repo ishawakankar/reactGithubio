@@ -1,14 +1,14 @@
 {
   "main.css": "/reactGithubio/static/css/main.a52efc42.chunk.css",
-  "main.js": "/reactGithubio/static/js/main.6fcbb2f8.chunk.js",
-  "main.js.map": "/reactGithubio/static/js/main.6fcbb2f8.chunk.js.map",
-  "static/js/1.8205b453.chunk.js": "/reactGithubio/static/js/1.8205b453.chunk.js",
-  "static/js/1.8205b453.chunk.js.map": "/reactGithubio/static/js/1.8205b453.chunk.js.map",
+  "main.js": "/reactGithubio/static/js/main.8a05c4d3.chunk.js",
+  "main.js.map": "/reactGithubio/static/js/main.8a05c4d3.chunk.js.map",
+  "static/js/1.70b43117.chunk.js": "/reactGithubio/static/js/1.70b43117.chunk.js",
+  "static/js/1.70b43117.chunk.js.map": "/reactGithubio/static/js/1.70b43117.chunk.js.map",
   "runtime~main.js": "/reactGithubio/static/js/runtime~main.add20f0b.js",
   "runtime~main.js.map": "/reactGithubio/static/js/runtime~main.add20f0b.js.map",
   "static/media/logo.svg": "/reactGithubio/static/media/logo.5d5d9eef.svg",
   "static/css/main.a52efc42.chunk.css.map": "/reactGithubio/static/css/main.a52efc42.chunk.css.map",
   "index.html": "/reactGithubio/index.html",
-  "precache-manifest.20f3b47a3c38b167c23a89530379609e.js": "/reactGithubio/precache-manifest.20f3b47a3c38b167c23a89530379609e.js",
+  "precache-manifest.8603e22e711651f4e9261241bacf297d.js": "/reactGithubio/precache-manifest.8603e22e711651f4e9261241bacf297d.js",
   "service-worker.js": "/reactGithubio/service-worker.js"
 }

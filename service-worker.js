@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/reactGithubio/precache-manifest.20f3b47a3c38b167c23a89530379609e.js"
+  "/reactGithubio/precache-manifest.8603e22e711651f4e9261241bacf297d.js"
 );
 
 workbox.clientsClaim();
